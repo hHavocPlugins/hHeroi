@@ -1,0 +1,33 @@
+Comando: 
+  Setar: "pex user @player add {perms}"
+  Remover: "pex user @player remove {perms}"
+
+Habilidades:
+  duolingo:
+    effect:
+    permissions:
+    - 'hHeroi.perm1'
+  jake:
+    effect:
+    permissions:
+    - 'hHeroi.perm2'
+  sonic:
+    effect:
+    permissions:
+    - 'hHeroi.perm3'
+  bob:
+    effect:
+    permissions:
+    - 'hHeroi.perm4'
+  technoblade:
+    effect:
+    permissions:
+    - 'hHeroi.perm5'
+  amongus:
+    effect:
+    permissions:
+    - 'hHeroi.perm6'
+  chica:
+    effect:
+    permissions:
+    - 'hHeroi.perm7'
